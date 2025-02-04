@@ -1,0 +1,6 @@
+[submodule "lib/pico-simple-mqtt"]
+	path = lib/pico-simple-mqtt
+	url = git@github.com:tarinaroope/pico-simple-mqtt.git
+[submodule "lib/pmicro-rf"]
+	path = lib/pmicro-rf
+	url = git@github.com:tarinaroope/pmicro-rf.git
